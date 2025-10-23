@@ -94,6 +94,5 @@ Future plans include:
 - Enhancing boss AI and visual fidelity  
 
 ---
-![Watch the video](https://berkayardaa.github.io/mywebsite/videos/v2.mp4)
-)
+
 
